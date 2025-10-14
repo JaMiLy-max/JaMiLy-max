@@ -1,4 +1,10 @@
-## Hi there 👋
+<!-- <div>
+
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Good%20to%20see%20you&textBg=false&fontAlign=50&fontSize=15&section=header)
+  
+</div> -->
+
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <!--
 **JaMiLy-max/JaMiLy-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,12 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div>
-
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
-  
-</div>
 
 
 <div>
@@ -82,9 +82,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">
   <br/>
   <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaMiLy-max)](https://github.com/anuraghazra/github-readme-stats)
 
-  
   <!-- 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaMiLy-max&hide=contribs,prs&show_icons=true&theme=graywhite)
   ## 🤔 Github Stats
  
   [!['s GitHub stats](https://github-readme-stats.vercel.app/api?username=)](https://github.com/anuraghazra/github-readme-stats)
