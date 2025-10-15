@@ -82,7 +82,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">
   <br/>
   <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaMiLy-max)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaMiLy-max&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
   <!-- 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaMiLy-max&hide=contribs,prs&show_icons=true&theme=graywhite)
