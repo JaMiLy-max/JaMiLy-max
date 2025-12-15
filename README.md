@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Django.
 - 👯 I’m looking to collaborate on Database Administration or API development
 - 🤔 I'm looking for help with efficient code
-- 📫 How to reach me: We'll be uploading the email information soon.
+- 📫 How to reach me: ajin20823@gmail.com
   <br/>
   <br/>
   
